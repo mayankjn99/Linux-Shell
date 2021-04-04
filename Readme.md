@@ -1,3 +1,3 @@
 To execute 
-make
-./shell
+1. make (compile )
+2. ./shell (run)
